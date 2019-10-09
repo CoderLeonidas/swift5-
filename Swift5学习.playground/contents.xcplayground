@@ -30,5 +30,6 @@
         <page name='27-响应式编程'/>
         <page name='28-标准库源码分析'/>
         <page name='29-项目实战'/>
+        <page name='菜鸟教程'/>
     </pages>
 </playground>
